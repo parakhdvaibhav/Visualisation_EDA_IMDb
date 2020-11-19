@@ -1,4 +1,4 @@
-# Assignment_IMDb
+# Visualisation/EDA_IMDb
 
 ## Assignment: Problem Statement
 
